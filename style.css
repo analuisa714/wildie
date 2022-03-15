@@ -309,6 +309,21 @@ nav img{
 
 /* -------------- POSICIONAMENTO DE ELEMENTOS DE CADA CURIOSIDADE -------------------*/
 
+
+#titulo-baiacu{
+	position: relative;
+	top: 130px;
+	left: 457px;
+	margin-right:100px;
+}
+
+#baiacu-class{
+	position: relative;
+	top: -30px;
+	left: 70px;
+
+}
+
 #fonte-cavalo-marinho{
 	width: 750px;
 	position: relative;
@@ -321,16 +336,17 @@ nav img{
 }
 
 
+#titulo-barreleye{
+	position: relative;
+	left: 420px;
+	margin-right:45px;
+	top: 130px;
+}
+
 #barreleye-class{
 	position: relative;
 	margin-bottom: -70px;
 } /* class = imagem do animal */
-
-#titulo-barreleye{
-	position: relative;
-	left: 420px;
-	margin-right:30px;
-}
 
 #fonte-barreleye{
 	width: 750px;
@@ -343,6 +359,11 @@ nav img{
 	text-align: justify;
 }
 
+
+ #titulo-dragao-negro{
+ 	position: relative;
+ 	margin-left: 25px;
+ }
 
 #dragao-negro-class{
 	position: relative;
@@ -360,30 +381,10 @@ nav img{
 	text-align: justify;
 }
 
- #titulo-dragao-negro{
- 	position: relative;
- 	margin-left: 25px;
- }
-
-
-#titulo-baiacu{
-	position: relative;
-	top: 65px;
-	left: 457px;
-	margin-right:100px;
-}
-
-#baiacu-class{
-	position: relative;
-	top: -30px;
-	left: 70px;
-
-}
-
 
 #titulo-peixe-escorpiao{
 	position: relative;
-	top: 43px;
+	top: 127px;
 	left: 373px;
 }
 
@@ -395,7 +396,7 @@ nav img{
 
 #titulo-peixe-ogro{
 	position: relative;
-	top: 6px;
+	top: 130px;
 	left: 410px;
 	margin-right: 150px;
 }
@@ -407,17 +408,70 @@ nav img{
 }
 
 
-#titulo-porco{
+#titulo-cobra-cega{
 	position: relative;
-	left:465px;
+	top: 125px;
+	left: 410px;
 	margin-right: 200px;
 }
 
 
+#titulo-ra{
+	position: relative;
+	left: 490px;
+	top: 125px;
+	margin-right: 200px;
+}
+
+#ra-class{
+	position: relative;
+	left: 95px;
+
+}
+
+
+#titulo-salamandra{
+	position: relative;
+	top: 125px;
+	left: 400px;
+	margin-right: 200px;
+}
+
+
+#titulo-sapo{
+	position: relative;
+	left: 480px;
+	top: 125px;
+	margin-right: 200px;
+}
+
+
+#titulo-sapo-cururu{
+	position: relative;
+	left: 400px;
+	top: 125px;
+	margin-right: 200px;
+}
+
+
+#titulo-tritao{
+	position: relative;
+	top: 125px;
+	left: 460px;
+	margin-right: 200px;
+}
+
+#tritao-class{
+	position: relative;
+	left: 125px;
+	top: 10px;
+}
+ 
+
 #titulo-elefante{
 	position: relative;
 	left: 440px;
-	top: 84px;
+	top: 125px;
 	margin-right: 100px;
 }
 
@@ -426,25 +480,10 @@ nav img{
 	left: 50px;
 }
 
-
-#titulo-ornitorrinco{
-	position: relative;
-	left:387px;
-	top: 45px;
-	margin-right: 200px;
-}
-
-#onintorrinco-class{
-	position: relative;
-	left: -30px;
-	top: -20px;
-}
-
-
 #titulo-leao{
 	position: relative;
 	left:470px;
-	top: -10px;
+	top: 125px;
 	margin-right: 200px;
 }
 
@@ -458,7 +497,7 @@ nav img{
 #titulo-lemure{
 	position: relative;
 	left: 450px;
-	top: 25px;
+	top: 125px;
 	margin-right: 200px;
 }
 
@@ -468,62 +507,98 @@ nav img{
 }
 
 
+#titulo-ornitorrinco{
+	position: relative;
+	left:387px;
+	top: 125px;
+	margin-right: 200px;
+}
+
+#onintorrinco-class{
+	position: relative;
+	left: -30px;
+	top: -20px;
+}
+
+#titulo-porco{
+	position: relative;
+	left:465px;
+	margin-right: 200px;
+}
+
+
 #titulo-zebra{
 	position: relative;
 	left:465px;
 	margin-right: 200px;
-	top: 45px;
+	top: 125px;
 }
 
 
-#titulo-rosela{
+#titulo-aranha-saltadora{
 	position: relative;
-	left: 450px;
-	top: 12px;
+	left: 345px;
+	top: 125px;
+}
+
+#titulo-craca{
+	position: relative;
+	top: 125px;
+	left: 460px;
 	margin-right: 200px;
 }
 
-#rosela-class{
+#titulo-escorpiao{
 	position: relative;
-	left: 90px;
+	left: 425px;
+	top: 125px;
+	margin-right: 200px;
+}
+
+#escorpiao-class{
+	position: relative;
+	left: 128px;
+
 }
 
 
-#titulo-calau-de-malabar{
+#titulo-lagosta{
 	position: relative;
-	top: 45px;
+	top: 125px;
+	left: 450px;
+	margin-right: 200px;
 }
 
-
-#titulo-cegonha-bico-de-sapato{
+#lagosta-class{
 	position: relative;
-	top: 50px;
-	left: 290px;
+	left: 120px;
+
 }
 
-#cegonha-bico-de-sapato-class{
+#titulo-ostra{
 	position: relative;
-	top: -80px;
-	left: 110px;
+	top: 125px;
+	left: 455px;
+	margin-right: 200px;
 }
 
-
-#titulo-pica-pau-bico-de-marfim{
+#ostra-class{
 	position: relative;
-	top: 67px;
-	left: 280px;
+	left: 86px;
+	top: 20px;
 }
 
-#pica-pau-bico-de-marfim-class{
+#titulo-tatuzinho-de-jardim{
 	position: relative;
-	left: 90px;
+	left: 330px;
+	top: 125px;
 }
 
 
 #titulo-arara{
 	position: relative;
 	left: 450px;
-	top: 30px;
+	top: 125px;
 	margin-right: 200px;
 }
 
@@ -537,7 +612,7 @@ nav img{
 #titulo-avestruz{
 	position: relative;
 	left: 430px;
-	top: 30px;
+	top: 125px;
 	margin-right: 200px;
 }
 
@@ -549,46 +624,70 @@ nav img{
 }
 
 
-#titulo-escorpiao{
+#titulo-calau-de-malabar{
 	position: relative;
-	left: 425px;
-	top: 70px;
+	top: 125px;
+}
+
+
+#titulo-cegonha-bico-de-sapato{
+	position: relative;
+	top: 125px;
+	left: 290px;
+}
+
+#cegonha-bico-de-sapato-class{
+	position: relative;
+	top: -80px;
+	left: 110px;
+}
+
+
+#titulo-pica-pau-bico-de-marfim{
+	position: relative;
+	top: 125px;
+	left: 280px;
+}
+
+#pica-pau-bico-de-marfim-class{
+	position: relative;
+	left: 90px;
+}
+
+
+#titulo-rosela{
+	position: relative;
+	left: 450px;
+	top: 125px;
 	margin-right: 200px;
 }
 
-#escorpiao-class{
+#rosela-class{
 	position: relative;
-	left: 128px;
-
+	left: 90px;
 }
 
 
 #titulo-camaleao{
 	position: relative;
 	left: 430px;
-	top: 10px;
+	top: 125px;
 	margin-right: 200px;
 }
 
 
-#titulo-tuatara{
+#titulo-crocodilo{
 	position: relative;
-	left: 450px;
-	top: 50px;
+	left: 430px;
+	top: 125px;
 	margin-right: 200px;
-}
-
-#tuatara-class{
-	position: relative;
-	left: 110px;
-	top: 15px;
 }
 
 
 #titulo-lagarto{
 	position: relative;
 	left: 450px;
-	top: 10px;
+	top: 125px;
 	margin-right: 200px;
 }
 
@@ -607,131 +706,28 @@ nav img{
 #titulo-tartaruga-marinha{
 	position: relative;
 	left: 340px;
-	top: 10px;
+	top: 125px;
 	margin-right: 200px;
+}
+
+
+#titulo-tuatara{
+	position: relative;
+	left: 450px;
+	top: 125px;
+	margin-right: 200px;
+}
+
+#tuatara-class{
+	position: relative;
+	left: 110px;
+	top: 15px;
 }
 
 
 #titulo-jabuti{
 	position: relative;
 	left: 460px;
-	top: -10px;
+	top: 125px;
 	margin-right: 200px;
-}
-
-
-#titulo-crocodilo{
-	position: relative;
-	left: 430px;
-	top: 12px;
-	margin-right: 200px;
-}
-
-
-#titulo-ra{
-	position: relative;
-	left: 490px;
-	top: 10px;
-	margin-right: 200px;
-}
-
-#ra-class{
-	position: relative;
-	left: 95px;
-
-}
-
-
-#titulo-sapo{
-	position: relative;
-	left: 480px;
-	top: 10px;
-	margin-right: 200px;
-}
-
-#titulo-sapo-cururu{
-	position: relative;
-	left: 400px;
-	top: 10px;
-	margin-right: 200px;
-}
-
-
-#titulo-salamandra{
-	position: relative;
-	top: 30px;
-	left: 400px;
-	margin-right: 200px;
-}
-
-
-#titulo-lagosta{
-	position: relative;
-	top: -7px;
-	left: 450px;
-	margin-right: 200px;
-}
-
-#lagosta-class{
-	position: relative;
-	left: 120px;
-
-}
-
-
-#titulo-tritao{
-	position: relative;
-	top: 70px;
-	left: 460px;
-	margin-right: 200px;
-}
-
-#tritao-class{
-	position: relative;
-	left: 125px;
-	top: 10px;
-}
-
-
-#titulo-cobra-cega{
-	position: relative;
-	top: 30px;
-	left: 410px;
-	margin-right: 200px;
-}
-
-
-#titulo-ostra{
-	position: relative;
-	top: 30px;
-	left: 470px;
-	margin-right: 200px;
-}
-
-#ostra-class{
-	position: relative;
-	left: 86px;
-	top: 20px;
-}
-
-
-#titulo-craca{
-	position: relative;
-	top: 50px;
-	left: 460px;
-	margin-right: 200px;
-}
-
-
-#titulo-aranha-saltadora{
-	position: relative;
-	left: 345px;
-	top: 32px;
-}
-
-
-#titulo-tatuzinho-de-jardim{
-	position: relative;
-	left: 330px;
-	top: 12px;
 }
