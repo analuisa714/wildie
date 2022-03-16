@@ -111,6 +111,111 @@ nav img{
 	left: 30px;
 }
 
+/* MEDIA QUERY PARA CELULARES */
+@media screen and (max-width:  600px){
+	.header{
+		min-height: 100vh;
+		width: 100%;
+		background-image: url(https://analuisa714.github.io/wildie/PROTOTIPOCELULAR.png);
+		background-position: center;
+		background-size: cover;
+		position: relative;
+	}
+
+	.mais-sobre-nos-botao a{
+		width: 170px;
+		text-align: center;
+		display: inline-block;
+		text-decoration: none;
+		color: black;
+		background-color: #80dc54;
+		border-radius: 12px;
+		padding: 7px 12px;
+		font-size: 20px;
+		position: absolute;
+		top: 3%;
+		left: 53%;
+	}
+
+	nav img{
+		width: 65px;
+	}
+
+	nav{
+		display: flex;
+		padding: 0 px;
+		justify-content: space-between;
+		align-items: right;
+	}
+
+	.nav-links{
+		flex: 1;
+		text-align: center;
+	}
+
+	.nav-links ul li{
+		list-style: none;
+		display: block;
+		padding: 25px;
+		position: relative;
+		left: 17%;
+		top: -220px;
+	}
+
+	.nav-links ul li a{
+		color: black;
+		text-decoration: none;
+		background-color: #80dc54;
+		font-size: 25px;
+		padding: 7px 32px;
+		border-radius: 16px;
+	}
+
+	.text-box{
+		width: 250px;
+		position: absolute;
+		padding: 7px 25px;
+		top: 18%;
+		left: 50%;
+		text-align: center;
+		border-radius: 15px;
+	}
+
+	.text-box h1{
+		font-size: 32px;
+	}
+
+	#peixes{
+		position: relative;
+		left: 0px;
+	}
+
+	#anfibios{
+		position: relative;
+		left: 0px;
+	}
+
+	#mamiferos{
+		position: relative;
+		left: 0px;
+	}
+
+	#artropodes{
+		position: relative;
+		left: 0px;
+	}
+
+	#aves{
+		position: relative;
+		left: 0px;
+	}
+
+	#repteis{
+		position: relative;
+		left: 0px;
+	}
+}
+
 /*--------------------- PÁGINA DA CLASSE PEIXES (que foi reutilizada nas demais classes) -------------------- */
 
 .peixes{
